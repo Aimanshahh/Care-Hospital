@@ -20,6 +20,7 @@ The platform allows authorized administrators to manage hospital information, mo
 * Department management
 * Medical record management
 * Administrative data management
+* Role-based access control
 * Organized hospital information
 * User-friendly interface
 * Responsive web interface
@@ -60,5 +61,4 @@ Potential future improvements include:
 * Advanced reporting and analytics
 * Prescription management
 * Automated email notifications
-* Role-based access control
 * Enhanced patient portal
